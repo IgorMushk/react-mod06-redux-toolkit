@@ -1,4 +1,3 @@
-//import { combineReducers } from 'redux';
 import { statusFilters } from './constants';
 
 const tasksInitialState = [
@@ -57,7 +56,3 @@ export const filtersReducer = (state = filtersInitialState, action) => {
 //   };
 // };
 
-// export const rootReducer = combineReducers({
-//     tasks: tasksReducer,
-//     filters: filtersReducer,
-//   });
