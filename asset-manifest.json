@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-mod06-redux-toolkit/static/css/main.28348e4d.css",
-    "main.js": "/react-mod06-redux-toolkit/static/js/main.e48d2bb5.js",
+    "main.js": "/react-mod06-redux-toolkit/static/js/main.ddcc923c.js",
     "index.html": "/react-mod06-redux-toolkit/index.html",
     "main.28348e4d.css.map": "/react-mod06-redux-toolkit/static/css/main.28348e4d.css.map",
-    "main.e48d2bb5.js.map": "/react-mod06-redux-toolkit/static/js/main.e48d2bb5.js.map"
+    "main.ddcc923c.js.map": "/react-mod06-redux-toolkit/static/js/main.ddcc923c.js.map"
   },
   "entrypoints": [
     "static/css/main.28348e4d.css",
-    "static/js/main.e48d2bb5.js"
+    "static/js/main.ddcc923c.js"
   ]
 }
