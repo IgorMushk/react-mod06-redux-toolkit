@@ -6,7 +6,10 @@ import { statusFilters } from 'redux/constants';
 import { useDispatch, useSelector } from 'react-redux';
 import { getStatusFilter } from 'redux/selectors';
 // Импортируем генератор экшена
-import { setStatusFilter } from 'redux/actions';
+//=============== Before ========================
+//import { setStatusFilter } from 'redux/actions';
+//=============== After ========================
+import { setStatusFilter } from 'redux/filtersSlice';
 
 export const StatusFilter = () => {
   // Получаем ссылку на функцию отправки экшенов
